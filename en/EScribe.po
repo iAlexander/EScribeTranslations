@@ -52,6 +52,10 @@ msgid   "ru"
 msgstr  "Russian"
 
 msgctxt "English Language Code"
+msgid   "ua"
+msgstr  "Ukrainian"
+
+msgctxt "English Language Code"
 msgid   "zh-Hans"
 msgstr  "Simplified Chinese"
 
